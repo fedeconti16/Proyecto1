@@ -1,3 +1,12 @@
-body{
-    background-color: blue !important;
+.navText{
+    color:white !important;
+}
+
+.contenido{
+    margin: 10px !important;
+    padding: 10px;
+}
+
+.componenteEntregables{
+    background-color: rgb(28, 201, 77);
 }
